@@ -5,6 +5,13 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 #include <fcntl.h>
+/*
+
+
+!!!
+
+
+*/
 
 int acha_posicao_operador(char *argv);
 void executar_background(char *comando, int background);
